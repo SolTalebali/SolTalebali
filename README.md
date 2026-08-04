@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Sol 👋
+Java Test Automation Engineer, with a background in mechanical engineering. I came to software through building things and, more than that, through wanting to prove they actually work, which is what pulled me toward testing.
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
